@@ -5,8 +5,7 @@ A smartwatch based on the Nordic nRF52840 microcontroller with an e-Paper displa
 
 ## Diagrama bloc
 
-![Diagrama Bloc](Images/Diagrama Bloc.png)
-
+![img.png](img.png)
 ---
 
 ## Bill of Materials
